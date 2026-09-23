@@ -1,3 +1,12 @@
 .DS_Store
 __pycache__/
 *.py[cod]
+
+# The loose files in the repository root are private course material and source files.
+# Portfolio projects live in their own numbered folders below.
+/*.ipynb
+/*.xlsx
+/*.xls
+/*.pptx
+/~$*
+**/~$*
